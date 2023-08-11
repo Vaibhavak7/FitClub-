@@ -25,15 +25,15 @@ FitClub is a gym website designed to showcase gym services, class schedules, tra
 - Planned integration with Node.js backend for dynamic content
 
 ## Technologies Used
-
+- Frontend: HTML, CSS, JavaScript, Bootstrap, React.
 - React: Frontend library for building interactive user interfaces
 - Motion Div Libraries: Utilized for animations and effects
 - Node.js (Planned): Backend runtime for building server-side applications
 - CSS: Styling for visual appeal and responsiveness
 
 ## Animations and Effects
--The FitClub website leverages motion div libraries to create engaging animations and effects. Components like scrolling animations, hover effects, and transitions have been integrated to enhance the user experience.
+- The FitClub website leverages motion div libraries to create engaging animations and effects. Components like scrolling animations, hover effects, and transitions have been integrated to enhance the user experience.
 
 
 ## Planned Backend Integration
--The project's current version is focused on the front end using React and motion div libraries. A future project phase involves integrating a Node.js backend to enable dynamic content, user authentication, and other interactive features.
+- The project's current version is focused on the front end using React and motion div libraries. A future project phase involves integrating a Node.js backend to enable dynamic content, user authentication, and other interactive features.
